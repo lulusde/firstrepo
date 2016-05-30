@@ -1,0 +1,6 @@
+.data
+string1 :  .asciiz "hello world"
+
+.text
+puts string1
+done
